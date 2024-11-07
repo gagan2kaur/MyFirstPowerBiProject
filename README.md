@@ -1,2 +1,2 @@
 # MyFirstPowerBiProject
-![Dashboard](https://github.com/user-attachments/assets/7abc0a79-2950-4f24-82db-190275d63bc9)
+![Dashboard](https://github.com/user-attachments/assets/cc395cb7-2513-49ff-9de5-cbb1b97a84af)
